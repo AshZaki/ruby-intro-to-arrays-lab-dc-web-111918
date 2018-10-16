@@ -20,4 +20,5 @@ end
 
 def first_element_with_array_methods(@south_east_asia)
   country = south_east_asia.shift
-  put country
+  puts country.inspect
+end
