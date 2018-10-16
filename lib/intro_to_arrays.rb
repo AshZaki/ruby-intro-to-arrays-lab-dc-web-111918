@@ -19,6 +19,6 @@ def last_element(tylor_swift)
 end
 
 def first_element_with_array_methods(south_east_asia)
-   country = south_east_asia.shift
-  puts country.inspect
+   south_east_asia = south_east_asia.shift
+  puts south_east_asia.inspect
 end
