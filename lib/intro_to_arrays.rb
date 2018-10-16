@@ -6,4 +6,6 @@ def array_with_two_elements
   color = ["yellow", "grey"]
 end
 
-def 
+def first_element
+  @tylor_
+end
