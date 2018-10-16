@@ -9,3 +9,7 @@ end
 def first_element(tylor_swift)
   tylor_swift[0]
 end
+
+def third_element(tylor_swift)
+  tylor_swift[2]
+end
