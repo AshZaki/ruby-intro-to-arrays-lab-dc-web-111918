@@ -7,5 +7,5 @@ def array_with_two_elements
 end
 
 def first_element
-  @tylor_
+  @tylor_swift[0]
 end
