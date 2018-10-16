@@ -13,3 +13,7 @@ end
 def third_element(tylor_swift)
   tylor_swift[2]
 end
+
+def last_element(tylor_swift)
+  tylor_swift[-1]
+end
